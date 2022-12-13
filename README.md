@@ -8,6 +8,6 @@ Funcionalidades:
           
           como compilar e executar:
           -ao usar uma IDE, simplesmente procure a opção "compilar e executar" e logo abrirá um terminal com o programa rodando.
-          -ao usar o terminal, localize a pasta onde o arquivo .C está contido e digite gcc <nome do arquivo> -o <nome desejado ao compilado>, e após isso roda o código usando './<nome do compilado>'.
+          -ao usar o terminal, localize a pasta onde o arquivo .C está contido e digite "gcc TR3_535511 -o TR3_535511", e após isso roda o código usando './TR3_535511'.
           
-PS: caso execute pelo windows o código correto será "./<nome do compilado>.exe"
+PS: caso execute pelo windows o código correto será "./TR3_535511.exe"
